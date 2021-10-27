@@ -38,3 +38,38 @@ h1 {
   margin-top: 0;
   margin: 0;
 }
+
+
+
+
+
+
+
+#favouriteBooks {
+  color: pink;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+}
+
+#thirdBlock {
+  border: 2px solid black;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 0;
+  }
+
+#booklistItems {
+  list-style: armenian; 
+  padding: 0;
+  margin: 0; 
+  margin-left: 20px;
+ }
+
+#thirdListItem {
+  font-style:normal;
+  text-decoration: underline;
+  padding: 0;
+  margin-top: 0;
+  margin: 0;
+}
